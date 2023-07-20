@@ -1,0 +1,8 @@
+.fotenhas{
+    text-align: center;
+}
+
+#cor{
+    background: rgb(233,215,0);
+    background: linear-gradient(90deg, rgba(233,215,0,1) 0%, rgba(255,171,0,1) 7%, rgba(35,36,0,1) 100%);
+}
